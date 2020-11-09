@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/car-website/static/css/main.572cc913.chunk.css",
+    "main.js": "/car-website/static/js/main.8c426625.chunk.js",
+    "main.js.map": "/car-website/static/js/main.8c426625.chunk.js.map",
+    "runtime-main.js": "/car-website/static/js/runtime-main.8a9a4078.js",
+    "runtime-main.js.map": "/car-website/static/js/runtime-main.8a9a4078.js.map",
+    "static/js/2.6effc5fb.chunk.js": "/car-website/static/js/2.6effc5fb.chunk.js",
+    "static/js/2.6effc5fb.chunk.js.map": "/car-website/static/js/2.6effc5fb.chunk.js.map",
+    "static/js/3.fe6fd74c.chunk.js": "/car-website/static/js/3.fe6fd74c.chunk.js",
+    "static/js/3.fe6fd74c.chunk.js.map": "/car-website/static/js/3.fe6fd74c.chunk.js.map",
+    "index.html": "/car-website/index.html",
+    "static/css/main.572cc913.chunk.css.map": "/car-website/static/css/main.572cc913.chunk.css.map",
+    "static/js/2.6effc5fb.chunk.js.LICENSE.txt": "/car-website/static/js/2.6effc5fb.chunk.js.LICENSE.txt",
+    "static/media/bg.d356ddae.jpg": "/car-website/static/media/bg.d356ddae.jpg",
+    "static/media/bmw.eeeb41b2.jpg": "/car-website/static/media/bmw.eeeb41b2.jpg",
+    "static/media/home-bg.e57d9162.jpg": "/car-website/static/media/home-bg.e57d9162.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a9a4078.js",
+    "static/js/2.6effc5fb.chunk.js",
+    "static/css/main.572cc913.chunk.css",
+    "static/js/main.8c426625.chunk.js"
+  ]
+}
